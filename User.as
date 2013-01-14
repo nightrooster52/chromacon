@@ -1,0 +1,1 @@
+﻿package {	import effect.*;	public class User {		//player and enemy class will inherit from User				public var redEffect:Effect;		public var blueEffect:Effect;		public var yellowEffect:Effect;		public var greenEffect:Effect;		public var purpleEffect:Effect;		public var orangeEffect:Effect;			public function User() {		}		}}

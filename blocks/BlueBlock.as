@@ -1,0 +1,1 @@
+﻿package blocks {			public class BlueBlock extends BasicBlock {						public function BlueBlock() {			blockClass = BlueBlock;		}	}	}

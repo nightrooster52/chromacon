@@ -1,0 +1,1 @@
+﻿package blocks {		import flash.display.Sprite;		public class WhiteBlock extends Sprite{		public function WhiteBlock() {			// constructor code		}	}	}
