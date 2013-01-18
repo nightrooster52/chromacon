@@ -1,0 +1,1 @@
+﻿package {		import flash.display.MovieClip;		public class BasicBlock extends MovieClip {				var blockClass:Class;		var boardX:int = 0;		var boardY:int = 0;		public function BasicBlock() {			blockClass = BasicBlock;		}	}	}
