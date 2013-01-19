@@ -1,1 +1,0 @@
-﻿package  blocks {			public class YellowBlock extends BasicBlock {						public function YellowBlock() {			trace("YELLOW BLOCK CONSTRUCTOOOOOR");			blockClass = YellowBlock;					}	}	}

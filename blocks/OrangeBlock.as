@@ -1,1 +1,0 @@
-﻿package blocks {		import flash.display.MovieClip;			public class OrangeBlock extends BasicBlock {						public function OrangeBlock() {			blockClass = OrangeBlock;		}	}	}
