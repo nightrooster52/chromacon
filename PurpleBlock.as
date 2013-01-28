@@ -1,1 +1,0 @@
-﻿package {			public class PurpleBlock extends BasicBlock {						public function PurpleBlock() {			blockClass = PurpleBlock;		}	}	}
