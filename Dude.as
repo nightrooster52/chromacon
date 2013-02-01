@@ -1,0 +1,1 @@
+﻿package  {		public class Dude {		public var health:int;		public var position:String;		public var color:String;		public function Dude() {			// constructor code		}	}	}

@@ -1,0 +1,1 @@
+﻿package  {		public class WhiteEffect extends Effect{		public function WhiteEffect() {			// constructor code		}	}	}
