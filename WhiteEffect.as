@@ -1,1 +1,1 @@
-﻿package  {		public class WhiteEffect extends Effect{		public function WhiteEffect() {			// constructor code		}	}	}
+﻿package  {		public class WhiteEffect extends Effect{		public function WhiteEffect(main:Prototype) {			super(main);			// constructor code		}	}	}
