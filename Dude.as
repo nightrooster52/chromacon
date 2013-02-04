@@ -1,1 +1,1 @@
-﻿package  {		public class Dude {		public var health:int;		public var position:String;		public var color:String;		public function Dude() {			// constructor code		}	}	}
+﻿package  {	import flash.display.Sprite;		public class Dude extends Sprite{		public var health:int;		public var position:String;		public var color:String;		public function Dude() {			// constructor code		}				public function moveForward():void{			position = "forward";			//move x to front		}		public function moveBack():void{			position = "back";			//move x to back		}	}	}
